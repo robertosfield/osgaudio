@@ -31,6 +31,7 @@
 #include <osg/ref_ptr>
 #include <osg/Object>
 #include <osg/Node>
+#include <osg/Camera>
 #include <osg/NodeVisitor>
 #include <osg/CopyOp>
 #include <osg/Vec3>
