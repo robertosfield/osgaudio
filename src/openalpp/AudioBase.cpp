@@ -27,6 +27,7 @@
 #include <sstream>
 
 #include <openalpp/AudioBase.h>
+#include <openalpp/windowsstuff.h>
 
 using namespace openalpp;
 

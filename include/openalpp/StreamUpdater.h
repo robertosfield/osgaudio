@@ -43,7 +43,6 @@
 
 #include <openalpp/AudioBase.h>
 #include <openalpp/Error.h>
-#include <openalpp/windowsstuff.h>
 #include <OpenThreads/Thread>
 #include <OpenThreads/Mutex>
 #include <osg/Referenced>

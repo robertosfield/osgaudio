@@ -39,7 +39,6 @@
 
 #include <openalpp/Export.h>
 #include <openalpp/Error.h>
-#include <openalpp/windowsstuff.h>
 
 
 /**

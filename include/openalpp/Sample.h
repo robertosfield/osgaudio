@@ -26,7 +26,6 @@
 #ifndef OPENALPP_SAMPLE_H
 #define OPENALPP_SAMPLE_H 1
 
-#include <openalpp/windowsstuff.h>
 #include <openalpp/SoundData.h>
 #include <openalpp/Error.h>
 
